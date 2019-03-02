@@ -1,3 +1,3 @@
 # LearningPython
 
-Thanks to Nic who gave me first amazing experience of Python and Machine Learning!
+Thanks to Nic who gave me first amazing experience with Python and Machine Learning!
