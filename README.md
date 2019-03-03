@@ -4,8 +4,8 @@ Thanks to Nic who gave me first amazing experience with Python and Machine Learn
 
 - From Jan to May, 2018
 
-00_Basic_python
+**00_basic_python**
 
-01_Numpy
+**01_numpy**
 
-02_Review
+**02_review**
