@@ -9,3 +9,5 @@ Thanks to Nic who gave me first amazing experience with Python and Machine Learn
 - **01_numpy**
 
 - **02_review**
+
+- **03_knn**
