@@ -1,5 +1,6 @@
 import numpy as np
 def euclidean_dist():
+    return np.sqrt(np.sum((u - v) ** 2))
 
 
 class KNN():
