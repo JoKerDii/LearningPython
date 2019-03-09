@@ -11,3 +11,5 @@ Thanks to Nic who gave me first amazing experience with Python and Machine Learn
 - **02_review**
 
 - **03_knn**
+
+- **04_IntroToML**
